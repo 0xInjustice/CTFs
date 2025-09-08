@@ -1,12 +1,14 @@
 CTF refers to **Capture The Flag** a game in which players put their skills to practice to solve problems or break into an opponent's system.
 
-CTFs which i have solved:
+CTFs completed
 
 **By Platforms**
 
 **picoCTF**
 > - [SSTI1](picoCTF/SSTI1/README.md)
 > - [n0s4n1ty 1](picoCTF/n0s4n1ty/README.md)
+> - [DISKO 1](picoCTF/DISKO_1/README.md)
+> - [PIE TIME](picoCTF/PIE_TIME/README.md)
 
 ---
 
@@ -18,6 +20,9 @@ CTFs which i have solved:
 **Unrestricted File Upload**
 > - [n0s4n1ty 1](picoCTF/n0s4n1ty/README.md)
 
+**Function Pointer Injection**
+> - [PIE TIME](picoCTF/PIE_TIME/README.md)
+
 ---
 
 **By Type**
@@ -25,3 +30,11 @@ CTFs which i have solved:
 **Web Exploitation**
 > - [SSTI1](picoCTF/SSTI1/README.md)
 > - [n0s4n1ty 1](picoCTF/n0s4n1ty/README.md)
+
+**Forensics**
+> - [DISKO 1](picoCTF/DISKO_1/README.md)
+
+**Binary Exploitation**
+> - [PIE TIME](picoCTF/PIE_TIME/README.md)
+
+---
