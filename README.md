@@ -18,3 +18,10 @@ CTFs which i have solved:
 **Unrestricted File Upload**
 > - [n0s4n1ty 1](picoCTF/n0s4n1ty/README.md)
 
+---
+
+**By Type**
+
+**Web Exploitation**
+> - [SSTI1](picoCTF/SSTI1/README.md)
+> - [n0s4n1ty 1](picoCTF/n0s4n1ty/README.md)
