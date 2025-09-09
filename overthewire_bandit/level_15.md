@@ -6,3 +6,5 @@ Helpful note: Getting “DONE”, “RENEGOTIATING” or “KEYUPDATE”? Read t
 ```sh
 echo 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo | openssl s_client -connect localhost:30001 -ign_eof
 ```
+
+[Next Level](level_16.md)
