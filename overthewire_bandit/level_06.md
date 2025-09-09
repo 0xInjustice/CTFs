@@ -10,4 +10,4 @@ find . -size 33c -exec ls -l {} + | grep bandit6
 cat /var/lib/dpkg/info/bandit7.password
 ```
 
-[Next Level](level_7.md)
+[Next Level](level_07.md)
