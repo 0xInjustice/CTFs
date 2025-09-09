@@ -2,7 +2,7 @@ CTF refers to **Capture The Flag** a game in which players put their skills to p
 
 ## CTFs completed:
 
-**By Platforms**
+### **By Platforms**
 
 **picoCTF**
 > - [SSTI1](picoCTF/SSTI1/README.md)
@@ -14,7 +14,7 @@ CTF refers to **Capture The Flag** a game in which players put their skills to p
 > - [overthewite_bandit](/overthewite_bandit)
 ---
 
-**By Vulnerability**
+### **By Vulnerability**
 
 **Server Side Template Injectioin**
 > - [SSTI1](SSTI1/README.md)
@@ -27,7 +27,7 @@ CTF refers to **Capture The Flag** a game in which players put their skills to p
 
 ---
 
-**By Type**
+### **By Type**
 
 **Web Exploitation**
 > - [SSTI1](picoCTF/SSTI1/README.md)
