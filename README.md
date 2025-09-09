@@ -10,7 +10,7 @@ CTFs completed
 > - [DISKO 1](picoCTF/DISKO_1/README.md)
 > - [PIE TIME](picoCTF/PIE_TIME/README.md)
 
-**Overthewire Bandit
+**Overthewire Bandit**
 > - [overthewite_bandit](/overthewite_bandit)
 ---
 
