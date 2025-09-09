@@ -1,6 +1,6 @@
 CTF refers to **Capture The Flag** a game in which players put their skills to practice to solve problems or break into an opponent's system.
 
-CTFs completed
+## CTFs completed:
 
 **By Platforms**
 
