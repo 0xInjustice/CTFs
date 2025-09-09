@@ -17,3 +17,5 @@ find . -size 1033c
  find /etc -size +5M -exec ls -sh {} +
  ```
 **exec** for executing commands
+
+[Next Level](level_6.md)
