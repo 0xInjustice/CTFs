@@ -1,0 +1,11 @@
+# Description
+The credentials for the next level can be retrieved by submitting the password of the current level to a port on localhost in the range 31000 to 32000. First find out which of these ports have a server listening on them. Then find out which of those speak SSL and which don’t. There is only 1 server that will give the next credentials, the others will simply send back to you whatever you send to it.
+
+```sh
+nmap -p 31000-32000 -sV localhost
+openssl s_client -connect localhost:31790 -quiet
+chmod 400 bandit17.key
+cat /etc/bandit_pass/bandit17
+```
+
+[Next Level](level_17.md)
