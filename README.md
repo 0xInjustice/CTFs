@@ -9,6 +9,7 @@ CTF refers to **Capture The Flag** a game in which players put their skills to p
 > - [n0s4n1ty 1](picoCTF/n0s4n1ty/README.md)
 > - [DISKO 1](picoCTF/DISKO_1/README.md)
 > - [PIE TIME](picoCTF/PIE_TIME/README.md)
+> - [hashcrack](picoCTF/hashcrack/README.md)
 
 **Overthewire Bandit**
 > - [overthewite_bandit](/overthewite_bandit)
@@ -25,6 +26,9 @@ CTF refers to **Capture The Flag** a game in which players put their skills to p
 **Function Pointer Injection**
 > - [PIE TIME](picoCTF/PIE_TIME/README.md)
 
+**HashLeak**
+> - [hashcrack](picoCTF/hashcrack/README.md)
+
 ---
 
 ### **By Type**
@@ -38,5 +42,8 @@ CTF refers to **Capture The Flag** a game in which players put their skills to p
 
 **Binary Exploitation**
 > - [PIE TIME](picoCTF/PIE_TIME/README.md)
+
+**Cryptography**
+> - [hashcrack](picoCTF/hashcrack/README.md)
 
 ---
