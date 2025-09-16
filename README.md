@@ -11,6 +11,7 @@ CTF refers to **Capture The Flag** a game in which players put their skills to p
 > - [PIE TIME](picoCTF/PIE_TIME/README.md)
 > - [hashcrack](picoCTF/hashcrack/README.md)
 > - [Flag Hunters](picoCTF/Flag_Hunters/README.md)
+> - [FANTASY CTF](picoCTF/FANTASY_CTF/README.md)
 
 **Overthewire Bandit**
 > - [overthewite_bandit](/overthewite_bandit)
@@ -51,5 +52,8 @@ CTF refers to **Capture The Flag** a game in which players put their skills to p
 
 **Reverse Engineering**
 > - [Flag Hunters](picoCTF/Flag_Hunters/README.md)
+
+**General Skills**
+> - [FANTASY CTF](picoCTF/FANTASY_CTF/README.md)
 
 ---
