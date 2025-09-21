@@ -3,4 +3,11 @@
 # Description
 RED, RED, RED, RED
 
+# Solution
+
+```sh
+zsteg -a red.png
+```
+
+``decode the string youget``
 
