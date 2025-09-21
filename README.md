@@ -1,6 +1,5 @@
-CTF refers to **Capture The Flag** a game in which players put their skills to practice to solve problems or break into an opponent's system.
 
-## CTFs completed:
+## CTFs completed: 11 & Level 21 overthewite_bandit 
 
 ### **By Platforms**
 
@@ -12,6 +11,10 @@ CTF refers to **Capture The Flag** a game in which players put their skills to p
 > - [hashcrack](picoCTF/hashcrack/README.md)
 > - [Flag Hunters](picoCTF/Flag_Hunters/README.md)
 > - [FANTASY CTF](picoCTF/FANTASY_CTF/README.md)
+> - [Cookie Monster Secret Recipe](picoCTF/Cookie_Monster_Secret_recipe/README.md)
+> - [Rust fixme 1](picoCTF/Rust_fixme_1/README.md)
+> - [Rust fixme 2](picoCTF/Rust_fixme_2/README.md)
+> - [Rust fixme 3](picoCTF/Rust_fixme_3/README.md)
 
 **Overthewire Bandit**
 > - [overthewite_bandit](/overthewite_bandit)
@@ -33,6 +36,10 @@ CTF refers to **Capture The Flag** a game in which players put their skills to p
 
 **Poor input Sanitization**
 > - [Flag Hunters](picoCTF/Flag_Hunters/README.md)
+
+**Check Cookie**
+> - [Cookie Monster Secret Recipe](picoCTF/Cookie_Monster_Secret_recipe/README.md)
+
 ---
 
 ### **By Type**
@@ -40,6 +47,7 @@ CTF refers to **Capture The Flag** a game in which players put their skills to p
 **Web Exploitation**
 > - [SSTI1](picoCTF/SSTI1/README.md)
 > - [n0s4n1ty 1](picoCTF/n0s4n1ty/README.md)
+> - [Cookie Monster Secret Recipe](picoCTF/Cookie_Monster_Secret_recipe/README.md)
 
 **Forensics**
 > - [DISKO 1](picoCTF/DISKO_1/README.md)
@@ -55,5 +63,8 @@ CTF refers to **Capture The Flag** a game in which players put their skills to p
 
 **General Skills**
 > - [FANTASY CTF](picoCTF/FANTASY_CTF/README.md)
+> - [Rust fixme 1](picoCTF/Rust_fixme_1/README.md)
+> - [Rust fixme 2](picoCTF/Rust_fixme_2/README.md)
+> - [Rust fixme 3](picoCTF/Rust_fixme_3/README.md)
 
 ---
