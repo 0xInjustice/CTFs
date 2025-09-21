@@ -1,5 +1,5 @@
 
-## CTFs completed: 11 & Level 21 overthewite_bandit 
+## CTFs completed: 12 & Level 21 overthewite_bandit 
 
 ### **By Platforms**
 
@@ -15,6 +15,7 @@
 > - [Rust fixme 1](picoCTF/Rust_fixme_1/README.md)
 > - [Rust fixme 2](picoCTF/Rust_fixme_2/README.md)
 > - [Rust fixme 3](picoCTF/Rust_fixme_3/README.md)
+> - [Ph4nt0m 1ntrud3r](picoCTF/Ph4nt0m_1ntrud3r/README.md)
 
 **Overthewire Bandit**
 > - [overthewite_bandit](/overthewite_bandit)
@@ -51,6 +52,7 @@
 
 **Forensics**
 > - [DISKO 1](picoCTF/DISKO_1/README.md)
+> - [Ph4nt0m 1ntrud3r](picoCTF/Ph4nt0m_1ntrud3r/README.md)
 
 **Binary Exploitation**
 > - [PIE TIME](picoCTF/PIE_TIME/README.md)
