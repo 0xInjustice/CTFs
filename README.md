@@ -22,6 +22,7 @@
 > - [Local Authority](picoCTF/Local_Authority/README.md)
 > - [Inspect HTML](picoCTF/Inspect_HTML/README.md)
 > - [Includes](picoCTF/Includes/README.md)
+> - [Cookies](picoCTF/Cookies/README)
 
 **Overthewire Bandit**
 > - [overthewite_bandit](/overthewite_bandit)
@@ -46,6 +47,7 @@
 
 **Check Cookie**
 > - [Cookie Monster Secret Recipe](picoCTF/Cookie_Monster_Secret_recipe/README.md)
+> - [Cookies](picoCTF/Cookies/README)
 
 **Javascript File Exposure**
 > - [Local Authority](picoCTF/Local_Authority/README.md)
@@ -64,6 +66,7 @@
 > - [Inspect HTML](picoCTF/Inspect_HTML/README.md)
 > - [Local Authority](picoCTF/Local_Authority/README.md)
 > - [Includes](picoCTF/Includes/README.md)
+> - [Cookies](picoCTF/Cookies/README)
 
 **Forensics**
 > - [DISKO 1](picoCTF/DISKO_1/README.md)
