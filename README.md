@@ -17,6 +17,7 @@
 > - [Rust fixme 3](picoCTF/Rust_fixme_3/README.md)
 > - [Ph4nt0m 1ntrud3r](picoCTF/Ph4nt0m_1ntrud3r/README.md)
 > - [Unminify](picoCTF/Unminify/README.md)
+> - [IntroToBurp](picoCTF/IntroToBurp/README.md)
 
 **Overthewire Bandit**
 > - [overthewite_bandit](/overthewite_bandit)
@@ -51,6 +52,7 @@
 > - [n0s4n1ty 1](picoCTF/n0s4n1ty/README.md)
 > - [Cookie Monster Secret Recipe](picoCTF/Cookie_Monster_Secret_recipe/README.md)
 > - [Unminify](picoCTF/Unminify/README.md)
+> - [IntroToBurp](picoCTF/IntroToBurp/README.md)
 
 **Forensics**
 > - [DISKO 1](picoCTF/DISKO_1/README.md)
