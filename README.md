@@ -20,6 +20,7 @@
 > - [IntroToBurp](picoCTF/IntroToBurp/README.md)
 > - [Bookmarklet](picoCTF/Bookmarklet/README.md)
 > - [Local Authority](picoCTF/Local_Authority/README.md)
+> - [Inspect HTML](picoCTF/Inspect_HTML/README.md)
 
 **Overthewire Bandit**
 > - [overthewite_bandit](/overthewite_bandit)
@@ -59,6 +60,7 @@
 > - [Unminify](picoCTF/Unminify/README.md)
 > - [IntroToBurp](picoCTF/IntroToBurp/README.md)
 > - [Bookmarklet](picoCTF/Bookmarklet/README.md)
+> - [Inspect HTML](picoCTF/Inspect_HTML/README.md)
 
 **Forensics**
 > - [DISKO 1](picoCTF/DISKO_1/README.md)
