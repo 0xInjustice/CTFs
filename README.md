@@ -18,6 +18,7 @@
 > - [Ph4nt0m 1ntrud3r](picoCTF/Ph4nt0m_1ntrud3r/README.md)
 > - [Unminify](picoCTF/Unminify/README.md)
 > - [IntroToBurp](picoCTF/IntroToBurp/README.md)
+> - [Bookmarklet](picoCTF/Bookmarklet/README.md)
 
 **Overthewire Bandit**
 > - [overthewite_bandit](/overthewite_bandit)
@@ -53,6 +54,7 @@
 > - [Cookie Monster Secret Recipe](picoCTF/Cookie_Monster_Secret_recipe/README.md)
 > - [Unminify](picoCTF/Unminify/README.md)
 > - [IntroToBurp](picoCTF/IntroToBurp/README.md)
+> - [Bookmarklet](picoCTF/Bookmarklet/README.md)
 
 **Forensics**
 > - [DISKO 1](picoCTF/DISKO_1/README.md)
