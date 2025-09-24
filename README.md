@@ -19,6 +19,7 @@
 > - [Unminify](picoCTF/Unminify/README.md)
 > - [IntroToBurp](picoCTF/IntroToBurp/README.md)
 > - [Bookmarklet](picoCTF/Bookmarklet/README.md)
+> - [Local Authority](picoCTF/Local_Authority/README.md)
 
 **Overthewire Bandit**
 > - [overthewite_bandit](/overthewite_bandit)
@@ -43,6 +44,9 @@
 
 **Check Cookie**
 > - [Cookie Monster Secret Recipe](picoCTF/Cookie_Monster_Secret_recipe/README.md)
+
+**Javascript File Exposure**
+> - [Local Authority](picoCTF/Local_Authority/README.md)
 
 ---
 
