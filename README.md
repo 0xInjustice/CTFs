@@ -1,5 +1,5 @@
 
-## CTFs completed: 23 & Level 21 overthewite_bandit 
+## CTFs completed: 24 & Level 21 overthewite_bandit 
 
 ### **By Platforms**
 
@@ -27,6 +27,7 @@
 > - [ GET_aHEAD ](picoCTF/GET_aHEAD/README.md)
 > - [dont-use-client-side](picoCTF/dont-use-client-side/README.md)
 > - [logon](picoCTF/logon/README.md)
+> - [Insp3ct0r](picoCTF/Insp3ct0r/README.md)
 
 **Overthewire Bandit**
 > - [overthewite_bandit](/overthewite_bandit)
@@ -75,6 +76,7 @@
 > - [ GET_aHEAD ](picoCTF/GET_aHEAD/README.md)
 > - [dont-use-client-side](picoCTF/dont-use-client-side/README.md)
 > - [logon](picoCTF/logon/README.md)
+> - [Insp3ct0r](picoCTF/Insp3ct0r/README.md)
 
 **Forensics**
 > - [DISKO 1](picoCTF/DISKO_1/README.md)
