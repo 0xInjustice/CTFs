@@ -31,6 +31,7 @@
 > - [where are the robots](picoCTF/where_are_the_robots/README.md)
 > - [Pachinko](picoCTF/Pachinko/README.md)
 > - [Crack_the_Gate_1](picoCTF/Crack_the_Gate_1/README.md)
+> - [Crack_the_Gate_2](picoCTF/Crack_the_Gate_2/README.md)
 
 **Overthewire Bandit**
 
@@ -93,6 +94,7 @@
 > - [where are the robots](picoCTF/where_are_the_robots/README.md)
 > - [Pachinko](picoCTF/Pachinko/README.md)
 > - [Crack_the_Gate_1](picoCTF/Crack_the_Gate_1/README.md)
+> - [Crack_the_Gate_2](picoCTF/Crack_the_Gate_2/README.md)
 
 **Forensics**
 
