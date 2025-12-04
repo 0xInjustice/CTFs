@@ -32,6 +32,7 @@
 > - [Pachinko](picoCTF/Pachinko/README.md)
 > - [Crack_the_Gate_1](picoCTF/Crack_the_Gate_1/README.md)
 > - [Crack_the_Gate_2](picoCTF/Crack_the_Gate_2/README.md)
+> - [byp4ss3d](picoCTF/byp4ss3d/README.md)
 
 **Overthewire Bandit**
 
@@ -95,6 +96,7 @@
 > - [Pachinko](picoCTF/Pachinko/README.md)
 > - [Crack_the_Gate_1](picoCTF/Crack_the_Gate_1/README.md)
 > - [Crack_the_Gate_2](picoCTF/Crack_the_Gate_2/README.md)
+> - [byp4ss3d](picoCTF/byp4ss3d/README.md)
 
 **Forensics**
 
