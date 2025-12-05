@@ -43,6 +43,7 @@
 > - [SQL Injection Part 1](ctflearn/basic_injection/README.md)
 > - [Forensics 101](ctflearn/Forensics_101/README.md)
 > - [Character Encoding](ctflearn/Character_Encoding/README.md)
+> - [Taking_LS](ctflearn/Taking_LS/README.md)
 
 ---
 
@@ -214,12 +215,8 @@
 > - [Rust fixme 1](picoCTF/Rust_fixme_1/README.md)
 > - [Rust fixme 2](picoCTF/Rust_fixme_2/README.md)
 > - [Rust fixme 3](picoCTF/Rust_fixme_3/README.md)
-
-**SQL Injection**
-
-> - [SQL Injection Part 1](ctflearn/basic_injection/README.md)
-
----
+> - [Character Encoding](ctflearn/Character_Encoding/README.md)
+> - [Taking_LS](ctflearn/Taking_LS/README.md)
 
 **SQL Injection**
 
