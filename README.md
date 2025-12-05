@@ -38,6 +38,10 @@
 
 > - [overthewite_bandit](/overthewite_bandit)
 
+**ctflearn**
+
+> - [SQL Injection Part 1](ctflearn/basic_injection/README.md)
+
 ---
 
 ### **By Vulnerability**
@@ -121,5 +125,9 @@
 > - [Rust fixme 1](picoCTF/Rust_fixme_1/README.md)
 > - [Rust fixme 2](picoCTF/Rust_fixme_2/README.md)
 > - [Rust fixme 3](picoCTF/Rust_fixme_3/README.md)
+
+**SQL Injection**
+
+> - [SQL Injection Part 1](ctflearn/basic_injection/README.md)
 
 ---
