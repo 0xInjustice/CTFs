@@ -41,6 +41,7 @@
 **ctflearn**
 
 > - [SQL Injection Part 1](ctflearn/basic_injection/README.md)
+> - [Forensics 101](ctflearn/Forensics_101/README.md)
 
 ---
 
@@ -106,6 +107,7 @@
 
 > - [DISKO 1](picoCTF/DISKO_1/README.md)
 > - [Ph4nt0m 1ntrud3r](picoCTF/Ph4nt0m_1ntrud3r/README.md)
+> - [Forensics 101](ctflearn/Forensics_101/README.md)
 
 **Binary Exploitation**
 
