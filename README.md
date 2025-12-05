@@ -44,6 +44,7 @@
 > - [Forensics 101](ctflearn/Forensics_101/README.md)
 > - [Character Encoding](ctflearn/Character_Encoding/README.md)
 > - [Taking_LS](ctflearn/Taking_LS/README.md)
+> - [POST_Practice](ctflearn/POST_Practice/README.md)
 
 ---
 
@@ -217,6 +218,7 @@
 > - [Rust fixme 3](picoCTF/Rust_fixme_3/README.md)
 > - [Character Encoding](ctflearn/Character_Encoding/README.md)
 > - [Taking_LS](ctflearn/Taking_LS/README.md)
+> - [POST_Practice](ctflearn/POST_Practice/README.md)
 
 **SQL Injection**
 
