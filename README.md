@@ -1,6 +1,6 @@
-## CTFs completed: 26 & Level 21 overthewite_bandit
+# CTFs completed: 26 & Level 21 overthewite_bandit
 
-### **By Platforms**
+## **By Platforms**
 
 **picoCTF**
 
@@ -46,43 +46,11 @@
 > - [Taking_LS](ctflearn/Taking_LS/README.md)
 > - [POST_Practice](ctflearn/POST_Practice/README.md)
 > - [Don't_Bump_Your_Head(er)](<ctflearn/Don't_Bump_Your_Head(er)/README.md>)
+> - [Inj3ction Time](ctflearn/Inj3ction_Time/README.md)
 
 ---
 
-### **By Vulnerability**
-
-**Server Side Template Injectioin**
-
-> - [SSTI1](SSTI1/README.md)
-
-**Unrestricted File Upload**
-
-> - [n0s4n1ty 1](picoCTF/n0s4n1ty/README.md)
-
-**Function Pointer Injection**
-
-> - [PIE TIME](picoCTF/PIE_TIME/README.md)
-
-**HashLeak**
-
-> - [hashcrack](picoCTF/hashcrack/README.md)
-
-**Poor input Sanitization**
-
-> - [Flag Hunters](picoCTF/Flag_Hunters/README.md)
-
-**Check Cookie**
-
-> - [Cookie Monster Secret Recipe](picoCTF/Cookie_Monster_Secret_recipe/README.md)
-> - [Cookies](picoCTF/Cookies/README)
-
-**Javascript File Exposure**
-
-> - [Local Authority](picoCTF/Local_Authority/README.md)
-
----
-
-### **By Type**
+## **By Type**
 
 **Web Exploitation**
 
@@ -368,6 +336,11 @@
 > - [Crack_the_Gate_2](picoCTF/Crack_the_Gate_2/README.md)
 > - [byp4ss3d](picoCTF/byp4ss3d/README.md)
 
+**SQLi**
+
+> - [Inj3ction Time](ctflearn/Inj3ction_Time/README.md)
+> - [SQL Injection Part 1](ctflearn/basic_injection/README.md)
+
 **Forensics**
 
 > - [DISKO 1](picoCTF/DISKO_1/README.md)
@@ -395,15 +368,5 @@
 > - [Character Encoding](ctflearn/Character_Encoding/README.md)
 > - [Taking_LS](ctflearn/Taking_LS/README.md)
 > - [POST_Practice](ctflearn/POST_Practice/README.md)
-
-**SQL Injection**
-
-> - [SQL Injection Part 1](ctflearn/basic_injection/README.md)
-
----
-
-**SQL Injection**
-
-> - [SQL Injection Part 1](ctflearn/basic_injection/README.md)
 
 ---
