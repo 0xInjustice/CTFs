@@ -1,6 +1,7 @@
 [Pachinko](https://play.picoctf.org/practice/challenge/494?category=1&page=2)
 
 # Description
+
 History has failed us, but no matter. Server source There are two flags in this challenge. Submit flag one here, and flag two in Pachinko Revisited.
 
 # Solution
