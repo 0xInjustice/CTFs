@@ -5,6 +5,7 @@
 **picoCTF**
 
 > - [SSTI1](picoCTF/SSTI1/README.md)
+> - [SSTI2](picoCTF/SSTI2/README.md)
 > - [n0s4n1ty 1](picoCTF/n0s4n1ty/README.md)
 > - [DISKO 1](picoCTF/DISKO_1/README.md)
 > - [PIE TIME](picoCTF/PIE_TIME/README.md)
@@ -55,6 +56,7 @@
 **Web Exploitation**
 
 > - [SSTI1](picoCTF/SSTI1/README.md)
+> - [SSTI2](picoCTF/SSTI2/README.md)
 > - [n0s4n1ty 1](picoCTF/n0s4n1ty/README.md)
 > - [Cookie Monster Secret Recipe](picoCTF/Cookie_Monster_Secret_recipe/README.md)
 > - [Unminify](picoCTF/Unminify/README.md)
