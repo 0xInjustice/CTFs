@@ -1,8 +1,8 @@
-# CTFs completed: 26 & Level 21 overthewite_bandit
+# CTFs completed: 37
 
 ## **By Platforms**
 
-**picoCTF**
+**picoCTF**: 30
 
 > - [SSTI1](picoCTF/SSTI1/README.md)
 > - [SSTI2](picoCTF/SSTI2/README.md)
@@ -35,11 +35,7 @@
 > - [Crack_the_Gate_2](picoCTF/Crack_the_Gate_2/README.md)
 > - [byp4ss3d](picoCTF/byp4ss3d/README.md)
 
-**Overthewire Bandit**
-
-> - [overthewite_bandit](/overthewite_bandit)
-
-**ctflearn**
+**ctflearn**: 7
 
 > - [SQL Injection Part 1](ctflearn/basic_injection/README.md)
 > - [Forensics 101](ctflearn/Forensics_101/README.md)
@@ -49,59 +45,8 @@
 > - [Don't_Bump_Your_Head(er)](<ctflearn/Don't_Bump_Your_Head(er)/README.md>)
 > - [Inj3ction Time](ctflearn/Inj3ction_Time/README.md)
 
----
+**Overthewire Bandit**: Level 21
 
-## **By Type**
-
-**Web Exploitation**
-
-> - [SSTI1](picoCTF/SSTI1/README.md)
-> - [SSTI2](picoCTF/SSTI2/README.md)
-> - [n0s4n1ty 1](picoCTF/n0s4n1ty/README.md)
-> - [Cookie Monster Secret Recipe](picoCTF/Cookie_Monster_Secret_recipe/README.md)
-> - [Unminify](picoCTF/Unminify/README.md)
-> - [IntroToBurp](picoCTF/IntroToBurp/README.md)
-> - [Bookmarklet](picoCTF/Bookmarklet/README.md)
-> - [Inspect HTML](picoCTF/Inspect_HTML/README.md)
-> - [Local Authority](picoCTF/Local_Authority/README.md)
-> - [Includes](picoCTF/Includes/README.md)
-> - [Cookies](picoCTF/Cookies/README)
-> - [Scavenger Hunt](picoCTF/Scavenger_Hunt/README.md)
-> - [ GET_aHEAD ](picoCTF/GET_aHEAD/README.md)
-> - [dont-use-client-side](picoCTF/dont-use-client-side/README.md)
-> - [logon](picoCTF/logon/README.md)
-> - [Insp3ct0r](picoCTF/Insp3ct0r/README.md)
-> - [where are the robots](picoCTF/where_are_the_robots/README.md)
-> - [Pachinko](picoCTF/Pachinko/README.md)
-> - [Crack_the_Gate_1](picoCTF/Crack_the_Gate_1/README.md)
-> - [Crack_the_Gate_2](picoCTF/Crack_the_Gate_2/README.md)
-> - [byp4ss3d](picoCTF/byp4ss3d/README.md)
-
-**Forensics**
-
-> - [DISKO 1](picoCTF/DISKO_1/README.md)
-> - [Ph4nt0m 1ntrud3r](picoCTF/Ph4nt0m_1ntrud3r/README.md)
-> - [Forensics 101](ctflearn/Forensics_101/README.md)
-
-**Binary Exploitation**
-
-> - [PIE TIME](picoCTF/PIE_TIME/README.md)
-
-**Cryptography**
-
-> - [hashcrack](picoCTF/hashcrack/README.md)
-
-**Reverse Engineering**
-
-> - [Flag Hunters](picoCTF/Flag_Hunters/README.md)
-
-**General Skills**
-
-> - [FANTASY CTF](picoCTF/FANTASY_CTF/README.md)
-> - [Rust fixme 1](picoCTF/Rust_fixme_1/README.md)
-> - [Rust fixme 2](picoCTF/Rust_fixme_2/README.md)
-> - [Rust fixme 3](picoCTF/Rust_fixme_3/README.md)
-> - [Character Encoding](ctflearn/Character_Encoding/README.md)
-> - [Taking_LS](ctflearn/Taking_LS/README.md)
+> - [overthewite_bandit](/overthewite_bandit)
 
 ---
