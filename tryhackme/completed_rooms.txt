@@ -1,7 +1,0 @@
-Red Team Engagements | https://tryhackme.com/room/redteamengagements | 144 | 🟢 Easy
-Red Team Fundamentals | https://tryhackme.com/room/redteamfundamentals | 88 | 🟢 Easy
-Defensive Security Intro | https://tryhackme.com/room/defensivesecurityintro | 40 | 🟢 Easy
-Offensive Security Intro | https://tryhackme.com/room/offensivesecurityintro | 8 | 🟢 Easy
-Careers in Cyber | https://tryhackme.com/room/careersincyber | 0 | 💡Info
-
-Total points gained: 280
