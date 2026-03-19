@@ -8,7 +8,8 @@
 > - [Adventure_Time](tryhackme/Adventure_Time/README.md)
 > - [Rabbit_Store](tryhackme/Rabbit_Store/README.md)
 > - [Robots_v1.7](tryhackme/Robots_v1.7/README.md)
-> - [Robots_v1.7](tryhackme/Robots_v1.7/README.md)
+> - [Agent Sudo](tryhackme/Agent_Sudo/README.md)
+> - [Anonymous_Playground](tryhackme/Anonymous_Playground/README.md)
 
 **HackTheBox**: 1
 
