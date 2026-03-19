@@ -1,0 +1,5 @@
+map                 [32m (Status: 200)[0m [Size: 2246]
+data                [32m (Status: 200)[0m [Size: 6908]
+radio               [32m (Status: 200)[0m [Size: 7281]
+inventory           [32m (Status: 200)[0m [Size: 6573]
+rom                 [32m (Status: 200)[0m [Size: 2347]
