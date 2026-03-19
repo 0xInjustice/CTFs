@@ -2,6 +2,18 @@
 
 ## **By Platforms**
 
+**TryHackMe**: 3 + 24(Advent_of_Cyber_1)
+
+> - [Advent_of_Cyber_1](tryhackme/)
+> - [Adventure_Time](tryhackme/Adventure_Time/README.md)
+> - [Rabbit_Store](tryhackme/Rabbit_Store/README.md)
+> - [Robots_v1.7](tryhackme/Robots_v1.7/README.md)
+> - [Robots_v1.7](tryhackme/Robots_v1.7/README.md)
+
+**HackTheBox**: 1
+
+> - [Jailbreak](HackTheBox/CTF_Try_Out/Jailbreak/README.md)
+
 **picoCTF**: 30
 
 > - [SSTI1](picoCTF/SSTI1/README.md)
