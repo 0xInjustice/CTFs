@@ -1,0 +1,23 @@
+# Nmap 7.98 scan initiated Fri Mar 20 02:07:21 2026 as: nmap -sC -sV -sT -p- -O -oN nmap.txt -T5 10.48.129.27
+Warning: 10.48.129.27 giving up on port because retransmission cap hit (2).
+Nmap scan report for 10.48.129.27
+Host is up (0.094s latency).
+Not shown: 64700 closed tcp ports (conn-refused), 833 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.13 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 8b:36:0c:f1:3c:f6:0f:90:af:ea:c0:75:32:b7:97:b4 (RSA)
+|   256 47:8d:45:99:3a:5c:70:72:79:16:4b:af:3a:57:0e:17 (ECDSA)
+|_  256 67:ad:5b:af:c1:02:42:af:be:46:28:00:4e:d7:54:cb (ED25519)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+|_http-server-header: Apache/2.4.41 (Ubuntu)
+| http-robots.txt: 1 disallowed entry 
+|_/zYdHuAKjP
+|_http-title: Proving Grounds
+Aggressive OS guesses: Linux 4.15 - 5.19 (96%), Linux 4.15 (96%), Linux 5.4 (96%), Android 10 - 12 (Linux 4.14 - 4.19) (93%), Adtran 424RG FTTH gateway (92%), Android 9 - 10 (Linux 4.9 - 4.14) (92%), Android 12 (Linux 5.4) (92%), Linux 2.6.32 (92%), Linux 2.6.39 - 3.2 (92%), Linux 3.1 - 3.2 (92%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 3 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Mar 20 02:13:49 2026 -- 1 IP address (1 host up) scanned in 387.76 seconds
